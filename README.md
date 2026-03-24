@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @avtanshdixit
 - 🌱 I’m interested in Web Development & Data Structures
+- 🌱 I'm currently exploring Full Stack Development and Advanced Algorithms
 - 😄 Pronouns:he/him
 
 <!---

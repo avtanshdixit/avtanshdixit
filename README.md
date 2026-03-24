@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avtanshdixit
-- 🌱 I’m currently learning front end development. 
+- 🌱 I’m interested in Web Development & Data Structures
 - 😄 Pronouns:he/him
 
 <!---
